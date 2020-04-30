@@ -10,7 +10,7 @@ public abstract class Game {
     abstract void startPlay();
     abstract void endPlay();
 
-    //模板 1
+    //模板
     public final void play(){
 
         //初始化游戏
