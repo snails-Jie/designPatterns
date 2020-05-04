@@ -1,6 +1,7 @@
 package zhangjie.designPatterns.behavior.template;
 
 /**
+ * Spring中对hibernate的支持
  * 使用 Game 的模板方法 play() 来演示游戏的定义方式
  * 优点
  *   1.封装不变部分，扩展可变部分。

@@ -6,5 +6,5 @@ package zhangjie.designPatterns.behavior.mediator;
  * @date 2020/4/29 17:13
  */
 public abstract class Mediator {
-    public abstract void contact(String content,Colleague coll);
+    public abstract void contact(String content,Trader trader);
 }
